@@ -3,7 +3,7 @@ module github.com/eezystay/vercel
 go 1.25.5
 
 require (
-	github.com/eezystay/backend v0.0.0
+	github.com/eezystay/backend v0.0.1
 	github.com/gofiber/fiber/v3 v3.0.0
 )
 
