@@ -1,4 +1,4 @@
-module github.com/ovbiebo/eezystay/vercel
+module github.com/eezystay/vercel
 
 go 1.25.5
 
